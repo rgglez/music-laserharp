@@ -1,0 +1,21 @@
+---
+import { parsePresets, type Preset } from "../dist/presets.js";
+
+interface Props {
+  /** Initial custom presets; saved browser data takes precedence. */
+  presets?: Preset[];
+  /** Separate keys give multiple instruments independent saved libraries. */
+  storageKey?: string;
+}
+const { presets = [], storageKey } = Astro.props;
+// Validate on the server so invalid props fail the build, not the reader.
+const initialPresets = parsePresets(presets);
+---
+
+<laser-harp
+  presets={JSON.stringify(initialPresets)}
+  storage-key={storageKey}></laser-harp>
+
+<script>
+  import "../dist/index.js";
+</script>

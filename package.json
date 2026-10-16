@@ -1,0 +1,73 @@
+{
+  "name": "@rgglez/music-laserharp",
+  "version": "0.1.0",
+  "description": "Playable laser harp Web Component (Three.js + Tone.js) with Astro, React, and Svelte wrappers and gettext translations.",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./presets": {
+      "types": "./dist/presets.d.ts",
+      "default": "./dist/presets.js"
+    },
+    "./react": {
+      "types": "./dist/LaserHarp.react.d.ts",
+      "default": "./dist/LaserHarp.react.js"
+    },
+    "./svelte": {
+      "svelte": "./src/LaserHarp.svelte",
+      "default": "./src/LaserHarp.svelte"
+    },
+    "./astro": "./src/LaserHarp.astro"
+  },
+  "files": [
+    "dist",
+    "src/LaserHarp.astro",
+    "src/LaserHarp.svelte"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "bun test src",
+    "prepublishOnly": "tsc"
+  },
+  "keywords": [
+    "laser-harp",
+    "music",
+    "web-component",
+    "custom-element",
+    "threejs",
+    "tonejs",
+    "astro-component",
+    "react",
+    "svelte"
+  ],
+  "author": "Rodolfo González González",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgglez/music-laserharp.git"
+  },
+  "dependencies": {
+    "@rgglez/i18n-gettext": "^0.1.0",
+    "three": "^0.186.1",
+    "tone": "^15.1.22"
+  },
+  "peerDependencies": {
+    "astro": ">=4.0.0",
+    "react": ">=18.0.0",
+    "svelte": ">=4.0.0"
+  },
+  "peerDependenciesMeta": {
+    "astro": { "optional": true },
+    "react": { "optional": true },
+    "svelte": { "optional": true }
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "^19.3.0",
+    "@types/three": "^0.186.0",
+    "typescript": "^5.9.3"
+  }
+}

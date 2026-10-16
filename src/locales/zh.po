@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: music-laserharp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-16 01:21-0600\n"
+"PO-Revision-Date: 2026-10-16 01:30-0600\n"
+"Last-Translator: Rodolfo González González\n"
+"Language-Team: none\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src/client.ts:41
+msgid "Could not restore the local settings; using the initial presets."
+msgstr "无法恢复本地设置；将使用初始预设。"
+
+#: src/client.ts:120 src/template.ts:22
+msgid "Enable sound"
+msgstr "开启声音"
+
+#: src/client.ts:124
+msgid "Sound is off. Press Enable sound to start."
+msgstr "声音已关闭。按“开启声音”开始。"
+
+#: src/client.ts:125
+msgid "WebGL is not available. You can play with the note buttons."
+msgstr "WebGL 不可用。你可以使用音符按钮演奏。"
+
+#: src/client.ts:131
+msgid "Preparing the sound…"
+msgstr "正在准备声音…"
+
+#: src/client.ts:143
+msgid "Disable sound"
+msgstr "关闭声音"
+
+#: src/client.ts:147
+msgid "Ready. Press and hold a beam or play a note."
+msgstr "就绪。按住一道光束或弹奏一个音符。"
+
+#: src/client.ts:148
+msgid "Ready. Play with the note buttons."
+msgstr "就绪。使用音符按钮演奏。"
+
+#: src/client.ts:154
+msgid "Could not enable audio. Press Enable sound to try again."
+msgstr "无法开启音频。按“开启声音”重试。"
+
+#: src/client.ts:175
+#, javascript-format
+msgid "Key %1$s: %2$s"
+msgstr "按键 %1$s：%2$s"
+
+#: src/client.ts:181
+#, javascript-format
+msgid "Play %1$s, beam %2$s, %3$s"
+msgstr "演奏 %1$s，第 %2$s 道光束，%3$s"
+
+#: src/client.ts:229
+msgid "Changes work on this page, but the browser does not allow saving them for another visit."
+msgstr "更改在本页面有效，但浏览器不允许保存它们供下次访问使用。"
+
+#: src/client.ts:504
+msgid "The graphics context was lost. Reload the page to restore the beams."
+msgstr "图形上下文已丢失。请重新加载页面以恢复光束。"
+
+#: src/editor.ts:70
+#, javascript-format
+msgid "Beam %1$s: note"
+msgstr "光束 %1$s：音符"
+
+#: src/editor.ts:78
+#, javascript-format
+msgid "Beam %1$s: color"
+msgstr "光束 %1$s：颜色"
+
+#: src/editor.ts:105
+#, javascript-format
+msgid "%1$s of %2$s custom presets. Changes apply when you save."
+msgstr "%1$s / %2$s 个自定义预设。更改将在保存时生效。"
+
+#: src/editor.ts:119
+msgid "Untitled"
+msgstr "未命名"
+
+#: src/editor.ts:172
+#, javascript-format
+msgid "Preset %1$s"
+msgstr "预设 %1$s"
+
+#: src/editor.ts:208
+#, javascript-format
+msgid "Check the names (1–40 characters), short names (1–%1$s), notes, and colors of all presets."
+msgstr "请检查所有预设的名称（1–40 个字符）、短名称（1–%1$s）、音符和颜色。"
+
+#: src/index.ts:37 src/template.ts:19
+msgid "Laser harp"
+msgstr "激光竖琴"
+
+#: src/index.ts:47
+msgid "Could not load the instrument. Reload the page to try again."
+msgstr "无法加载乐器。请重新加载页面以重试。"
+
+#: src/presets.ts:14
+msgid "Red"
+msgstr "红色"
+
+#: src/presets.ts:15
+msgid "Green"
+msgstr "绿色"
+
+#: src/presets.ts:16
+msgid "Yellow"
+msgstr "黄色"
+
+#: src/presets.ts:17
+msgid "Orange"
+msgstr "橙色"
+
+#: src/presets.ts:18
+msgid "White"
+msgstr "白色"
+
+#: src/presets.ts:19
+msgid "Blue"
+msgstr "蓝色"
+
+#: src/template.ts:25
+msgid "Enable sound, then press and hold a beam with the mouse or a finger; you can slide between beams. You can also focus a note and hold Space or Enter. Hovering without pressing makes no sound."
+msgstr "开启声音，然后用鼠标或手指按住一道光束；你可以在光束之间滑动。你也可以聚焦一个音符并按住空格键或回车键。仅悬停而不按下不会发出声音。"
+
+#: src/template.ts:26
+msgid "With the harp focused, hold keys 1 to 0 to play the beams from left to right; 0 is the tenth beam."
+msgstr "竖琴获得焦点时，按住 1 到 0 键可从左到右演奏光束；0 对应第十道光束。"
+
+#: src/template.ts:30
+msgid "PLAY THE LIGHT"
+msgstr "弹奏光芒"
+
+#: src/template.ts:33
+msgid "Harp notes, from left to right"
+msgstr "竖琴音符，从左到右"
+
+#: src/template.ts:34
+msgid "Select preset"
+msgstr "选择预设"
+
+#: src/template.ts:36 src/template.ts:42
+msgid "Presets"
+msgstr "预设"
+
+#: src/template.ts:37
+msgid "Volume"
+msgstr "音量"
+
+#: src/template.ts:39
+msgid "Loading the instrument…"
+msgstr "正在加载乐器…"
+
+#: src/template.ts:40
+msgid "Configure presets"
+msgstr "配置预设"
+
+#: src/template.ts:43
+#, javascript-format
+msgid "Up to five custom presets of %1$s to %2$s beams. The original RV2 preset keeps its nine notes and is always available."
+msgstr "最多五个自定义预设，每个 %1$s 到 %2$s 道光束。RV2 原始预设保留其九个音符，并始终可用。"
+
+#: src/template.ts:44
+msgid "Custom preset"
+msgstr "自定义预设"
+
+#: src/template.ts:46
+msgid "New preset"
+msgstr "新建预设"
+
+#: src/template.ts:47
+msgid "Delete preset"
+msgstr "删除预设"
+
+#: src/template.ts:50
+msgid "Preset settings"
+msgstr "预设设置"
+
+#: src/template.ts:51
+msgid "Name"
+msgstr "名称"
+
+#: src/template.ts:52
+msgid "Short name (button)"
+msgstr "短名称（按钮）"
+
+#: src/template.ts:53
+msgid "Number of beams"
+msgstr "光束数量"
+
+#: src/template.ts:58
+msgid "Cancel"
+msgstr "取消"
+
+#: src/template.ts:59
+msgid "Save changes"
+msgstr "保存更改"

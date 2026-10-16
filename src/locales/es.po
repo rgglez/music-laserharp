@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: music-laserharp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-16 01:21-0600\n"
+"PO-Revision-Date: 2026-10-16 01:30-0600\n"
+"Last-Translator: Rodolfo González González\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/client.ts:41
+msgid "Could not restore the local settings; using the initial presets."
+msgstr "No se pudo recuperar la configuración local; se usan los presets iniciales."
+
+#: src/client.ts:120 src/template.ts:22
+msgid "Enable sound"
+msgstr "Activar sonido"
+
+#: src/client.ts:124
+msgid "Sound is off. Press Enable sound to start."
+msgstr "Sonido desactivado. Pulsa Activar sonido para empezar."
+
+#: src/client.ts:125
+msgid "WebGL is not available. You can play with the note buttons."
+msgstr "WebGL no está disponible. Puedes tocar con los botones de notas."
+
+#: src/client.ts:131
+msgid "Preparing the sound…"
+msgstr "Preparando el sonido…"
+
+#: src/client.ts:143
+msgid "Disable sound"
+msgstr "Desactivar sonido"
+
+#: src/client.ts:147
+msgid "Ready. Press and hold a beam or play a note."
+msgstr "Listo. Mantén pulsado un rayo o toca una nota."
+
+#: src/client.ts:148
+msgid "Ready. Play with the note buttons."
+msgstr "Listo. Toca con los botones de notas."
+
+#: src/client.ts:154
+msgid "Could not enable audio. Press Enable sound to try again."
+msgstr "No se pudo activar el audio. Pulsa Activar sonido para reintentar."
+
+#: src/client.ts:175
+#, javascript-format
+msgid "Key %1$s: %2$s"
+msgstr "Tecla %1$s: %2$s"
+
+#: src/client.ts:181
+#, javascript-format
+msgid "Play %1$s, beam %2$s, %3$s"
+msgstr "Tocar %1$s, rayo %2$s, %3$s"
+
+#: src/client.ts:229
+msgid "Changes work on this page, but the browser does not allow saving them for another visit."
+msgstr "Los cambios funcionan en esta página, pero el navegador no permite guardarlos para otra visita."
+
+#: src/client.ts:504
+msgid "The graphics context was lost. Reload the page to restore the beams."
+msgstr "Se perdió el contexto gráfico. Recarga la página para recuperar los rayos."
+
+#: src/editor.ts:70
+#, javascript-format
+msgid "Beam %1$s: note"
+msgstr "Rayo %1$s: nota"
+
+#: src/editor.ts:78
+#, javascript-format
+msgid "Beam %1$s: color"
+msgstr "Rayo %1$s: color"
+
+#: src/editor.ts:105
+#, javascript-format
+msgid "%1$s of %2$s custom presets. Changes apply when you save."
+msgstr "%1$s de %2$s presets personalizados. Los cambios se aplican al guardar."
+
+#: src/editor.ts:119
+msgid "Untitled"
+msgstr "Sin nombre"
+
+#: src/editor.ts:172
+#, javascript-format
+msgid "Preset %1$s"
+msgstr "Preset %1$s"
+
+#: src/editor.ts:208
+#, javascript-format
+msgid "Check the names (1–40 characters), short names (1–%1$s), notes, and colors of all presets."
+msgstr "Revisa los nombres (1–40 caracteres), los nombres cortos (1–%1$s), las notas y los colores de todos los presets."
+
+#: src/index.ts:37 src/template.ts:19
+msgid "Laser harp"
+msgstr "Arpa láser"
+
+#: src/index.ts:47
+msgid "Could not load the instrument. Reload the page to try again."
+msgstr "No se pudo cargar el instrumento. Recarga la página para reintentar."
+
+#: src/presets.ts:14
+msgid "Red"
+msgstr "Rojo"
+
+#: src/presets.ts:15
+msgid "Green"
+msgstr "Verde"
+
+#: src/presets.ts:16
+msgid "Yellow"
+msgstr "Amarillo"
+
+#: src/presets.ts:17
+msgid "Orange"
+msgstr "Naranja"
+
+#: src/presets.ts:18
+msgid "White"
+msgstr "Blanco"
+
+#: src/presets.ts:19
+msgid "Blue"
+msgstr "Azul"
+
+#: src/template.ts:25
+msgid "Enable sound, then press and hold a beam with the mouse or a finger; you can slide between beams. You can also focus a note and hold Space or Enter. Hovering without pressing makes no sound."
+msgstr "Activa el sonido y mantén pulsado un rayo con el mouse o el dedo; puedes deslizarte entre rayos. También puedes enfocar una nota y mantener Espacio o Enter. Pasar el mouse sin pulsar no produce sonido."
+
+#: src/template.ts:26
+msgid "With the harp focused, hold keys 1 to 0 to play the beams from left to right; 0 is the tenth beam."
+msgstr "Con el arpa enfocada, mantén las teclas 1 a 0 para tocar los rayos de izquierda a derecha; 0 corresponde al décimo rayo."
+
+#: src/template.ts:30
+msgid "PLAY THE LIGHT"
+msgstr "TOCA LA LUZ"
+
+#: src/template.ts:33
+msgid "Harp notes, from left to right"
+msgstr "Notas del arpa, de izquierda a derecha"
+
+#: src/template.ts:34
+msgid "Select preset"
+msgstr "Seleccionar preset"
+
+#: src/template.ts:36 src/template.ts:42
+msgid "Presets"
+msgstr "Presets"
+
+#: src/template.ts:37
+msgid "Volume"
+msgstr "Volumen"
+
+#: src/template.ts:39
+msgid "Loading the instrument…"
+msgstr "Cargando el instrumento…"
+
+#: src/template.ts:40
+msgid "Configure presets"
+msgstr "Configurar presets"
+
+#: src/template.ts:43
+#, javascript-format
+msgid "Up to five custom presets of %1$s to %2$s beams. The original RV2 preset keeps its nine notes and is always available."
+msgstr "Hasta cinco presets personalizados de %1$s a %2$s rayos. El preset original de RV2 conserva sus nueve notas y siempre está disponible."
+
+#: src/template.ts:44
+msgid "Custom preset"
+msgstr "Preset personalizado"
+
+#: src/template.ts:46
+msgid "New preset"
+msgstr "Nuevo preset"
+
+#: src/template.ts:47
+msgid "Delete preset"
+msgstr "Eliminar preset"
+
+#: src/template.ts:50
+msgid "Preset settings"
+msgstr "Configuración del preset"
+
+#: src/template.ts:51
+msgid "Name"
+msgstr "Nombre"
+
+#: src/template.ts:52
+msgid "Short name (button)"
+msgstr "Nombre corto (botón)"
+
+#: src/template.ts:53
+msgid "Number of beams"
+msgstr "Número de rayos"
+
+#: src/template.ts:58
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/template.ts:59
+msgid "Save changes"
+msgstr "Guardar cambios"

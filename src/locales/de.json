@@ -1,0 +1,350 @@
+{
+   "translations" : {
+      "" : {
+         "" : {
+            "msgstr" : [
+               "Project-Id-Version: music-laserharp\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-10-16 01:21-0600\nPO-Revision-Date: 2026-10-16 01:30-0600\nLast-Translator: Rodolfo González González\nLanguage-Team: none\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+            ],
+            "msgid" : ""
+         }
+      },
+      "app" : {
+         "Could not restore the local settings; using the initial presets." : {
+            "msgctxt" : "app",
+            "msgid" : "Could not restore the local settings; using the initial presets.",
+            "msgstr" : [
+               "Die lokalen Einstellungen konnten nicht wiederhergestellt werden; die Anfangs-Presets werden verwendet."
+            ]
+         },
+         "Laser harp" : {
+            "msgstr" : [
+               "Laserharfe"
+            ],
+            "msgid" : "Laser harp",
+            "msgctxt" : "app"
+         },
+         "Green" : {
+            "msgid" : "Green",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Grün"
+            ]
+         },
+         "Enable sound" : {
+            "msgctxt" : "app",
+            "msgid" : "Enable sound",
+            "msgstr" : [
+               "Ton aktivieren"
+            ]
+         },
+         "Ready. Play with the note buttons." : {
+            "msgstr" : [
+               "Bereit. Spiele mit den Notentasten."
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Ready. Play with the note buttons."
+         },
+         "Preparing the sound…" : {
+            "msgstr" : [
+               "Ton wird vorbereitet…"
+            ],
+            "msgid" : "Preparing the sound…",
+            "msgctxt" : "app"
+         },
+         "Volume" : {
+            "msgstr" : [
+               "Lautstärke"
+            ],
+            "msgid" : "Volume",
+            "msgctxt" : "app"
+         },
+         "%1$s of %2$s custom presets. Changes apply when you save." : {
+            "msgstr" : [
+               "%1$s von %2$s eigenen Presets. Änderungen werden beim Speichern übernommen."
+            ],
+            "msgid" : "%1$s of %2$s custom presets. Changes apply when you save.",
+            "msgctxt" : "app"
+         },
+         "Untitled" : {
+            "msgstr" : [
+               "Ohne Namen"
+            ],
+            "msgid" : "Untitled",
+            "msgctxt" : "app"
+         },
+         "Enable sound, then press and hold a beam with the mouse or a finger; you can slide between beams. You can also focus a note and hold Space or Enter. Hovering without pressing makes no sound." : {
+            "msgstr" : [
+               "Aktiviere den Ton und halte einen Strahl mit der Maus oder dem Finger gedrückt; du kannst zwischen den Strahlen gleiten. Du kannst auch eine Note fokussieren und Leertaste oder Enter halten. Bloßes Überfahren mit der Maus erzeugt keinen Ton."
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Enable sound, then press and hold a beam with the mouse or a finger; you can slide between beams. You can also focus a note and hold Space or Enter. Hovering without pressing makes no sound."
+         },
+         "Sound is off. Press Enable sound to start." : {
+            "msgstr" : [
+               "Ton ist aus. Drücke Ton aktivieren, um zu beginnen."
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Sound is off. Press Enable sound to start."
+         },
+         "PLAY THE LIGHT" : {
+            "msgid" : "PLAY THE LIGHT",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "SPIEL DAS LICHT"
+            ]
+         },
+         "Short name (button)" : {
+            "msgid" : "Short name (button)",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Kurzname (Schaltfläche)"
+            ]
+         },
+         "Orange" : {
+            "msgstr" : [
+               "Orange"
+            ],
+            "msgid" : "Orange",
+            "msgctxt" : "app"
+         },
+         "With the harp focused, hold keys 1 to 0 to play the beams from left to right; 0 is the tenth beam." : {
+            "msgstr" : [
+               "Wenn die Harfe fokussiert ist, halte die Tasten 1 bis 0, um die Strahlen von links nach rechts zu spielen; 0 ist der zehnte Strahl."
+            ],
+            "msgid" : "With the harp focused, hold keys 1 to 0 to play the beams from left to right; 0 is the tenth beam.",
+            "msgctxt" : "app"
+         },
+         "Ready. Press and hold a beam or play a note." : {
+            "msgstr" : [
+               "Bereit. Halte einen Strahl gedrückt oder spiele eine Note."
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Ready. Press and hold a beam or play a note."
+         },
+         "Presets" : {
+            "msgid" : "Presets",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Presets"
+            ]
+         },
+         "Could not enable audio. Press Enable sound to try again." : {
+            "msgid" : "Could not enable audio. Press Enable sound to try again.",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Audio konnte nicht aktiviert werden. Drücke Ton aktivieren, um es erneut zu versuchen."
+            ]
+         },
+         "White" : {
+            "msgctxt" : "app",
+            "msgid" : "White",
+            "msgstr" : [
+               "Weiß"
+            ]
+         },
+         "Disable sound" : {
+            "msgstr" : [
+               "Ton deaktivieren"
+            ],
+            "msgid" : "Disable sound",
+            "msgctxt" : "app"
+         },
+         "Custom preset" : {
+            "msgctxt" : "app",
+            "msgid" : "Custom preset",
+            "msgstr" : [
+               "Eigenes Preset"
+            ]
+         },
+         "Beam %1$s: color" : {
+            "msgid" : "Beam %1$s: color",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Strahl %1$s: Farbe"
+            ]
+         },
+         "Blue" : {
+            "msgstr" : [
+               "Blau"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Blue"
+         },
+         "Key %1$s: %2$s" : {
+            "msgstr" : [
+               "Taste %1$s: %2$s"
+            ],
+            "msgid" : "Key %1$s: %2$s",
+            "msgctxt" : "app"
+         },
+         "Beam %1$s: note" : {
+            "msgstr" : [
+               "Strahl %1$s: Note"
+            ],
+            "msgid" : "Beam %1$s: note",
+            "msgctxt" : "app"
+         },
+         "Check the names (1–40 characters), short names (1–%1$s), notes, and colors of all presets." : {
+            "msgstr" : [
+               "Prüfe die Namen (1–40 Zeichen), Kurznamen (1–%1$s), Noten und Farben aller Presets."
+            ],
+            "msgid" : "Check the names (1–40 characters), short names (1–%1$s), notes, and colors of all presets.",
+            "msgctxt" : "app"
+         },
+         "Preset settings" : {
+            "msgid" : "Preset settings",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Preset-Einstellungen"
+            ]
+         },
+         "Loading the instrument…" : {
+            "msgstr" : [
+               "Instrument wird geladen…"
+            ],
+            "msgid" : "Loading the instrument…",
+            "msgctxt" : "app"
+         },
+         "Preset %1$s" : {
+            "msgctxt" : "app",
+            "msgid" : "Preset %1$s",
+            "msgstr" : [
+               "Preset %1$s"
+            ]
+         },
+         "Delete preset" : {
+            "msgctxt" : "app",
+            "msgid" : "Delete preset",
+            "msgstr" : [
+               "Preset löschen"
+            ]
+         },
+         "Select preset" : {
+            "msgstr" : [
+               "Preset auswählen"
+            ],
+            "msgid" : "Select preset",
+            "msgctxt" : "app"
+         },
+         "Number of beams" : {
+            "msgstr" : [
+               "Anzahl der Strahlen"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Number of beams"
+         },
+         "New preset" : {
+            "msgid" : "New preset",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Neues Preset"
+            ]
+         },
+         "Play %1$s, beam %2$s, %3$s" : {
+            "msgstr" : [
+               "%1$s spielen, Strahl %2$s, %3$s"
+            ],
+            "msgid" : "Play %1$s, beam %2$s, %3$s",
+            "msgctxt" : "app"
+         },
+         "Yellow" : {
+            "msgid" : "Yellow",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Gelb"
+            ]
+         },
+         "Name" : {
+            "msgid" : "Name",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Name"
+            ]
+         },
+         "Up to five custom presets of %1$s to %2$s beams. The original RV2 preset keeps its nine notes and is always available." : {
+            "msgstr" : [
+               "Bis zu fünf eigene Presets mit %1$s bis %2$s Strahlen. Das originale RV2-Preset behält seine neun Noten und ist immer verfügbar."
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Up to five custom presets of %1$s to %2$s beams. The original RV2 preset keeps its nine notes and is always available."
+         },
+         "Red" : {
+            "msgctxt" : "app",
+            "msgid" : "Red",
+            "msgstr" : [
+               "Rot"
+            ]
+         },
+         "Save changes" : {
+            "msgid" : "Save changes",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Änderungen speichern"
+            ]
+         },
+         "Changes work on this page, but the browser does not allow saving them for another visit." : {
+            "msgid" : "Changes work on this page, but the browser does not allow saving them for another visit.",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Die Änderungen funktionieren auf dieser Seite, aber der Browser erlaubt nicht, sie für einen späteren Besuch zu speichern."
+            ]
+         },
+         "Cancel" : {
+            "msgid" : "Cancel",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Abbrechen"
+            ]
+         },
+         "WebGL is not available. You can play with the note buttons." : {
+            "msgstr" : [
+               "WebGL ist nicht verfügbar. Du kannst mit den Notentasten spielen."
+            ],
+            "msgctxt" : "app",
+            "msgid" : "WebGL is not available. You can play with the note buttons."
+         },
+         "Configure presets" : {
+            "msgstr" : [
+               "Presets konfigurieren"
+            ],
+            "msgid" : "Configure presets",
+            "msgctxt" : "app"
+         },
+         "Harp notes, from left to right" : {
+            "msgstr" : [
+               "Noten der Harfe, von links nach rechts"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Harp notes, from left to right"
+         },
+         "Could not load the instrument. Reload the page to try again." : {
+            "msgstr" : [
+               "Das Instrument konnte nicht geladen werden. Lade die Seite neu, um es erneut zu versuchen."
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Could not load the instrument. Reload the page to try again."
+         },
+         "The graphics context was lost. Reload the page to restore the beams." : {
+            "msgstr" : [
+               "Der Grafikkontext ging verloren. Lade die Seite neu, um die Strahlen wiederherzustellen."
+            ],
+            "msgid" : "The graphics context was lost. Reload the page to restore the beams.",
+            "msgctxt" : "app"
+         }
+      }
+   },
+   "charset" : "utf-8",
+   "headers" : {
+      "Content-Transfer-Encoding" : "8bit",
+      "MIME-Version" : "1.0",
+      "Last-Translator" : "",
+      "Language" : "",
+      "Language-Team" : "",
+      "POT-Creation-Date" : "",
+      "Project-Id-Version" : "",
+      "PO-Revision-Date" : "",
+      "Content-Type" : "text/plain; charset=UTF-8",
+      "Plural-Forms" : "",
+      "X-Generator" : ""
+   }
+}

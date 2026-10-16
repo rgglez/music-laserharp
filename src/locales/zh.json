@@ -1,0 +1,350 @@
+{
+   "charset" : "utf-8",
+   "headers" : {
+      "Content-Type" : "text/plain; charset=UTF-8",
+      "X-Generator" : "",
+      "Language-Team" : "",
+      "Language" : "",
+      "POT-Creation-Date" : "",
+      "MIME-Version" : "1.0",
+      "Plural-Forms" : "",
+      "Project-Id-Version" : "",
+      "Content-Transfer-Encoding" : "8bit",
+      "PO-Revision-Date" : "",
+      "Last-Translator" : ""
+   },
+   "translations" : {
+      "app" : {
+         "Play %1$s, beam %2$s, %3$s" : {
+            "msgctxt" : "app",
+            "msgid" : "Play %1$s, beam %2$s, %3$s",
+            "msgstr" : [
+               "演奏 %1$s，第 %2$s 道光束，%3$s"
+            ]
+         },
+         "Yellow" : {
+            "msgid" : "Yellow",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "黄色"
+            ]
+         },
+         "WebGL is not available. You can play with the note buttons." : {
+            "msgctxt" : "app",
+            "msgid" : "WebGL is not available. You can play with the note buttons.",
+            "msgstr" : [
+               "WebGL 不可用。你可以使用音符按钮演奏。"
+            ]
+         },
+         "Could not enable audio. Press Enable sound to try again." : {
+            "msgctxt" : "app",
+            "msgid" : "Could not enable audio. Press Enable sound to try again.",
+            "msgstr" : [
+               "无法开启音频。按“开启声音”重试。"
+            ]
+         },
+         "Could not restore the local settings; using the initial presets." : {
+            "msgctxt" : "app",
+            "msgid" : "Could not restore the local settings; using the initial presets.",
+            "msgstr" : [
+               "无法恢复本地设置；将使用初始预设。"
+            ]
+         },
+         "Sound is off. Press Enable sound to start." : {
+            "msgstr" : [
+               "声音已关闭。按“开启声音”开始。"
+            ],
+            "msgid" : "Sound is off. Press Enable sound to start.",
+            "msgctxt" : "app"
+         },
+         "Ready. Press and hold a beam or play a note." : {
+            "msgstr" : [
+               "就绪。按住一道光束或弹奏一个音符。"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Ready. Press and hold a beam or play a note."
+         },
+         "Untitled" : {
+            "msgstr" : [
+               "未命名"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Untitled"
+         },
+         "New preset" : {
+            "msgctxt" : "app",
+            "msgid" : "New preset",
+            "msgstr" : [
+               "新建预设"
+            ]
+         },
+         "Red" : {
+            "msgstr" : [
+               "红色"
+            ],
+            "msgid" : "Red",
+            "msgctxt" : "app"
+         },
+         "Check the names (1–40 characters), short names (1–%1$s), notes, and colors of all presets." : {
+            "msgid" : "Check the names (1–40 characters), short names (1–%1$s), notes, and colors of all presets.",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "请检查所有预设的名称（1–40 个字符）、短名称（1–%1$s）、音符和颜色。"
+            ]
+         },
+         "Could not load the instrument. Reload the page to try again." : {
+            "msgctxt" : "app",
+            "msgid" : "Could not load the instrument. Reload the page to try again.",
+            "msgstr" : [
+               "无法加载乐器。请重新加载页面以重试。"
+            ]
+         },
+         "Custom preset" : {
+            "msgstr" : [
+               "自定义预设"
+            ],
+            "msgid" : "Custom preset",
+            "msgctxt" : "app"
+         },
+         "The graphics context was lost. Reload the page to restore the beams." : {
+            "msgstr" : [
+               "图形上下文已丢失。请重新加载页面以恢复光束。"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "The graphics context was lost. Reload the page to restore the beams."
+         },
+         "Preparing the sound…" : {
+            "msgid" : "Preparing the sound…",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "正在准备声音…"
+            ]
+         },
+         "Up to five custom presets of %1$s to %2$s beams. The original RV2 preset keeps its nine notes and is always available." : {
+            "msgstr" : [
+               "最多五个自定义预设，每个 %1$s 到 %2$s 道光束。RV2 原始预设保留其九个音符，并始终可用。"
+            ],
+            "msgid" : "Up to five custom presets of %1$s to %2$s beams. The original RV2 preset keeps its nine notes and is always available.",
+            "msgctxt" : "app"
+         },
+         "Laser harp" : {
+            "msgstr" : [
+               "激光竖琴"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Laser harp"
+         },
+         "PLAY THE LIGHT" : {
+            "msgid" : "PLAY THE LIGHT",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "弹奏光芒"
+            ]
+         },
+         "Orange" : {
+            "msgstr" : [
+               "橙色"
+            ],
+            "msgid" : "Orange",
+            "msgctxt" : "app"
+         },
+         "Blue" : {
+            "msgctxt" : "app",
+            "msgid" : "Blue",
+            "msgstr" : [
+               "蓝色"
+            ]
+         },
+         "Preset %1$s" : {
+            "msgstr" : [
+               "预设 %1$s"
+            ],
+            "msgid" : "Preset %1$s",
+            "msgctxt" : "app"
+         },
+         "Ready. Play with the note buttons." : {
+            "msgid" : "Ready. Play with the note buttons.",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "就绪。使用音符按钮演奏。"
+            ]
+         },
+         "Cancel" : {
+            "msgstr" : [
+               "取消"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Cancel"
+         },
+         "Presets" : {
+            "msgctxt" : "app",
+            "msgid" : "Presets",
+            "msgstr" : [
+               "预设"
+            ]
+         },
+         "Name" : {
+            "msgstr" : [
+               "名称"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Name"
+         },
+         "Disable sound" : {
+            "msgid" : "Disable sound",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "关闭声音"
+            ]
+         },
+         "Preset settings" : {
+            "msgstr" : [
+               "预设设置"
+            ],
+            "msgid" : "Preset settings",
+            "msgctxt" : "app"
+         },
+         "Key %1$s: %2$s" : {
+            "msgstr" : [
+               "按键 %1$s：%2$s"
+            ],
+            "msgid" : "Key %1$s: %2$s",
+            "msgctxt" : "app"
+         },
+         "With the harp focused, hold keys 1 to 0 to play the beams from left to right; 0 is the tenth beam." : {
+            "msgid" : "With the harp focused, hold keys 1 to 0 to play the beams from left to right; 0 is the tenth beam.",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "竖琴获得焦点时，按住 1 到 0 键可从左到右演奏光束；0 对应第十道光束。"
+            ]
+         },
+         "Number of beams" : {
+            "msgstr" : [
+               "光束数量"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Number of beams"
+         },
+         "Enable sound" : {
+            "msgstr" : [
+               "开启声音"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Enable sound"
+         },
+         "Volume" : {
+            "msgid" : "Volume",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "音量"
+            ]
+         },
+         "Beam %1$s: note" : {
+            "msgid" : "Beam %1$s: note",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "光束 %1$s：音符"
+            ]
+         },
+         "Harp notes, from left to right" : {
+            "msgstr" : [
+               "竖琴音符，从左到右"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Harp notes, from left to right"
+         },
+         "Beam %1$s: color" : {
+            "msgstr" : [
+               "光束 %1$s：颜色"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Beam %1$s: color"
+         },
+         "Save changes" : {
+            "msgctxt" : "app",
+            "msgid" : "Save changes",
+            "msgstr" : [
+               "保存更改"
+            ]
+         },
+         "Green" : {
+            "msgstr" : [
+               "绿色"
+            ],
+            "msgid" : "Green",
+            "msgctxt" : "app"
+         },
+         "Select preset" : {
+            "msgstr" : [
+               "选择预设"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Select preset"
+         },
+         "Configure presets" : {
+            "msgid" : "Configure presets",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "配置预设"
+            ]
+         },
+         "White" : {
+            "msgid" : "White",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "白色"
+            ]
+         },
+         "Delete preset" : {
+            "msgid" : "Delete preset",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "删除预设"
+            ]
+         },
+         "%1$s of %2$s custom presets. Changes apply when you save." : {
+            "msgctxt" : "app",
+            "msgid" : "%1$s of %2$s custom presets. Changes apply when you save.",
+            "msgstr" : [
+               "%1$s / %2$s 个自定义预设。更改将在保存时生效。"
+            ]
+         },
+         "Short name (button)" : {
+            "msgstr" : [
+               "短名称（按钮）"
+            ],
+            "msgid" : "Short name (button)",
+            "msgctxt" : "app"
+         },
+         "Loading the instrument…" : {
+            "msgstr" : [
+               "正在加载乐器…"
+            ],
+            "msgid" : "Loading the instrument…",
+            "msgctxt" : "app"
+         },
+         "Changes work on this page, but the browser does not allow saving them for another visit." : {
+            "msgstr" : [
+               "更改在本页面有效，但浏览器不允许保存它们供下次访问使用。"
+            ],
+            "msgid" : "Changes work on this page, but the browser does not allow saving them for another visit.",
+            "msgctxt" : "app"
+         },
+         "Enable sound, then press and hold a beam with the mouse or a finger; you can slide between beams. You can also focus a note and hold Space or Enter. Hovering without pressing makes no sound." : {
+            "msgstr" : [
+               "开启声音，然后用鼠标或手指按住一道光束；你可以在光束之间滑动。你也可以聚焦一个音符并按住空格键或回车键。仅悬停而不按下不会发出声音。"
+            ],
+            "msgid" : "Enable sound, then press and hold a beam with the mouse or a finger; you can slide between beams. You can also focus a note and hold Space or Enter. Hovering without pressing makes no sound.",
+            "msgctxt" : "app"
+         }
+      },
+      "" : {
+         "" : {
+            "msgid" : "",
+            "msgstr" : [
+               "Project-Id-Version: music-laserharp\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-10-16 01:21-0600\nPO-Revision-Date: 2026-10-16 01:30-0600\nLast-Translator: Rodolfo González González\nLanguage-Team: none\nLanguage: zh\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\n"
+            ]
+         }
+      }
+   }
+}

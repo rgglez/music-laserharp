@@ -1,0 +1,350 @@
+{
+   "headers" : {
+      "PO-Revision-Date" : "",
+      "Language-Team" : "",
+      "MIME-Version" : "1.0",
+      "Plural-Forms" : "",
+      "POT-Creation-Date" : "",
+      "Content-Type" : "text/plain; charset=UTF-8",
+      "Language" : "",
+      "Content-Transfer-Encoding" : "8bit",
+      "X-Generator" : "",
+      "Last-Translator" : "",
+      "Project-Id-Version" : ""
+   },
+   "translations" : {
+      "app" : {
+         "Disable sound" : {
+            "msgid" : "Disable sound",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Desactivar sonido"
+            ]
+         },
+         "Untitled" : {
+            "msgid" : "Untitled",
+            "msgstr" : [
+               "Sin nombre"
+            ],
+            "msgctxt" : "app"
+         },
+         "Laser harp" : {
+            "msgid" : "Laser harp",
+            "msgstr" : [
+               "Arpa láser"
+            ],
+            "msgctxt" : "app"
+         },
+         "Preset settings" : {
+            "msgstr" : [
+               "Configuración del preset"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Preset settings"
+         },
+         "Enable sound, then press and hold a beam with the mouse or a finger; you can slide between beams. You can also focus a note and hold Space or Enter. Hovering without pressing makes no sound." : {
+            "msgstr" : [
+               "Activa el sonido y mantén pulsado un rayo con el mouse o el dedo; puedes deslizarte entre rayos. También puedes enfocar una nota y mantener Espacio o Enter. Pasar el mouse sin pulsar no produce sonido."
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Enable sound, then press and hold a beam with the mouse or a finger; you can slide between beams. You can also focus a note and hold Space or Enter. Hovering without pressing makes no sound."
+         },
+         "Ready. Play with the note buttons." : {
+            "msgstr" : [
+               "Listo. Toca con los botones de notas."
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Ready. Play with the note buttons."
+         },
+         "Beam %1$s: color" : {
+            "msgid" : "Beam %1$s: color",
+            "msgstr" : [
+               "Rayo %1$s: color"
+            ],
+            "msgctxt" : "app"
+         },
+         "Enable sound" : {
+            "msgstr" : [
+               "Activar sonido"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Enable sound"
+         },
+         "Could not restore the local settings; using the initial presets." : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "No se pudo recuperar la configuración local; se usan los presets iniciales."
+            ],
+            "msgid" : "Could not restore the local settings; using the initial presets."
+         },
+         "PLAY THE LIGHT" : {
+            "msgid" : "PLAY THE LIGHT",
+            "msgstr" : [
+               "TOCA LA LUZ"
+            ],
+            "msgctxt" : "app"
+         },
+         "%1$s of %2$s custom presets. Changes apply when you save." : {
+            "msgid" : "%1$s of %2$s custom presets. Changes apply when you save.",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "%1$s de %2$s presets personalizados. Los cambios se aplican al guardar."
+            ]
+         },
+         "Ready. Press and hold a beam or play a note." : {
+            "msgid" : "Ready. Press and hold a beam or play a note.",
+            "msgstr" : [
+               "Listo. Mantén pulsado un rayo o toca una nota."
+            ],
+            "msgctxt" : "app"
+         },
+         "Blue" : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Azul"
+            ],
+            "msgid" : "Blue"
+         },
+         "Orange" : {
+            "msgstr" : [
+               "Naranja"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Orange"
+         },
+         "Short name (button)" : {
+            "msgid" : "Short name (button)",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Nombre corto (botón)"
+            ]
+         },
+         "Preset %1$s" : {
+            "msgstr" : [
+               "Preset %1$s"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Preset %1$s"
+         },
+         "New preset" : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Nuevo preset"
+            ],
+            "msgid" : "New preset"
+         },
+         "Presets" : {
+            "msgid" : "Presets",
+            "msgstr" : [
+               "Presets"
+            ],
+            "msgctxt" : "app"
+         },
+         "Check the names (1–40 characters), short names (1–%1$s), notes, and colors of all presets." : {
+            "msgid" : "Check the names (1–40 characters), short names (1–%1$s), notes, and colors of all presets.",
+            "msgstr" : [
+               "Revisa los nombres (1–40 caracteres), los nombres cortos (1–%1$s), las notas y los colores de todos los presets."
+            ],
+            "msgctxt" : "app"
+         },
+         "Play %1$s, beam %2$s, %3$s" : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Tocar %1$s, rayo %2$s, %3$s"
+            ],
+            "msgid" : "Play %1$s, beam %2$s, %3$s"
+         },
+         "With the harp focused, hold keys 1 to 0 to play the beams from left to right; 0 is the tenth beam." : {
+            "msgstr" : [
+               "Con el arpa enfocada, mantén las teclas 1 a 0 para tocar los rayos de izquierda a derecha; 0 corresponde al décimo rayo."
+            ],
+            "msgctxt" : "app",
+            "msgid" : "With the harp focused, hold keys 1 to 0 to play the beams from left to right; 0 is the tenth beam."
+         },
+         "Could not load the instrument. Reload the page to try again." : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "No se pudo cargar el instrumento. Recarga la página para reintentar."
+            ],
+            "msgid" : "Could not load the instrument. Reload the page to try again."
+         },
+         "WebGL is not available. You can play with the note buttons." : {
+            "msgid" : "WebGL is not available. You can play with the note buttons.",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "WebGL no está disponible. Puedes tocar con los botones de notas."
+            ]
+         },
+         "Name" : {
+            "msgid" : "Name",
+            "msgstr" : [
+               "Nombre"
+            ],
+            "msgctxt" : "app"
+         },
+         "Loading the instrument…" : {
+            "msgid" : "Loading the instrument…",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Cargando el instrumento…"
+            ]
+         },
+         "Yellow" : {
+            "msgid" : "Yellow",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Amarillo"
+            ]
+         },
+         "Save changes" : {
+            "msgstr" : [
+               "Guardar cambios"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Save changes"
+         },
+         "Beam %1$s: note" : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Rayo %1$s: nota"
+            ],
+            "msgid" : "Beam %1$s: note"
+         },
+         "Changes work on this page, but the browser does not allow saving them for another visit." : {
+            "msgid" : "Changes work on this page, but the browser does not allow saving them for another visit.",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Los cambios funcionan en esta página, pero el navegador no permite guardarlos para otra visita."
+            ]
+         },
+         "Volume" : {
+            "msgid" : "Volume",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Volumen"
+            ]
+         },
+         "Harp notes, from left to right" : {
+            "msgid" : "Harp notes, from left to right",
+            "msgstr" : [
+               "Notas del arpa, de izquierda a derecha"
+            ],
+            "msgctxt" : "app"
+         },
+         "Configure presets" : {
+            "msgstr" : [
+               "Configurar presets"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Configure presets"
+         },
+         "Could not enable audio. Press Enable sound to try again." : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "No se pudo activar el audio. Pulsa Activar sonido para reintentar."
+            ],
+            "msgid" : "Could not enable audio. Press Enable sound to try again."
+         },
+         "Red" : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Rojo"
+            ],
+            "msgid" : "Red"
+         },
+         "Delete preset" : {
+            "msgid" : "Delete preset",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Eliminar preset"
+            ]
+         },
+         "Select preset" : {
+            "msgstr" : [
+               "Seleccionar preset"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Select preset"
+         },
+         "Green" : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Verde"
+            ],
+            "msgid" : "Green"
+         },
+         "Up to five custom presets of %1$s to %2$s beams. The original RV2 preset keeps its nine notes and is always available." : {
+            "msgstr" : [
+               "Hasta cinco presets personalizados de %1$s a %2$s rayos. El preset original de RV2 conserva sus nueve notas y siempre está disponible."
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Up to five custom presets of %1$s to %2$s beams. The original RV2 preset keeps its nine notes and is always available."
+         },
+         "Sound is off. Press Enable sound to start." : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Sonido desactivado. Pulsa Activar sonido para empezar."
+            ],
+            "msgid" : "Sound is off. Press Enable sound to start."
+         },
+         "The graphics context was lost. Reload the page to restore the beams." : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Se perdió el contexto gráfico. Recarga la página para recuperar los rayos."
+            ],
+            "msgid" : "The graphics context was lost. Reload the page to restore the beams."
+         },
+         "Key %1$s: %2$s" : {
+            "msgstr" : [
+               "Tecla %1$s: %2$s"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Key %1$s: %2$s"
+         },
+         "Number of beams" : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Número de rayos"
+            ],
+            "msgid" : "Number of beams"
+         },
+         "Cancel" : {
+            "msgid" : "Cancel",
+            "msgstr" : [
+               "Cancelar"
+            ],
+            "msgctxt" : "app"
+         },
+         "Preparing the sound…" : {
+            "msgstr" : [
+               "Preparando el sonido…"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Preparing the sound…"
+         },
+         "White" : {
+            "msgid" : "White",
+            "msgstr" : [
+               "Blanco"
+            ],
+            "msgctxt" : "app"
+         },
+         "Custom preset" : {
+            "msgid" : "Custom preset",
+            "msgstr" : [
+               "Preset personalizado"
+            ],
+            "msgctxt" : "app"
+         }
+      },
+      "" : {
+         "" : {
+            "msgstr" : [
+               "Project-Id-Version: music-laserharp\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-10-16 01:21-0600\nPO-Revision-Date: 2026-10-16 01:30-0600\nLast-Translator: Rodolfo González González\nLanguage-Team: none\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+            ],
+            "msgid" : ""
+         }
+      }
+   },
+   "charset" : "utf-8"
+}

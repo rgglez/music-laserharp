@@ -1,0 +1,66 @@
+---
+import LaserHarp from "@rgglez/music-laserharp/astro";
+
+// "/" is Spanish; the harp reads its language from <html lang>.
+export function getStaticPaths() {
+  return [undefined, "en", "fr", "de", "zh"].map(lang => ({
+    params: { lang },
+  }));
+}
+const lang = Astro.params.lang ?? "es";
+const languages = ["es", "en", "fr", "de", "zh"];
+---
+
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>music-laserharp · Astro</title>
+  </head>
+  <body>
+    <h1>music-laserharp · Astro</h1>
+    <nav>
+      {
+        languages.map(code => (
+          <a
+            href={code === "es" ? "/" : `/${code}`}
+            aria-current={code === lang ? "page" : undefined}>
+            {code}
+          </a>
+        ))
+      }
+    </nav>
+    <LaserHarp
+      storageKey="example-astro:presets:v1"
+      presets={[
+        {
+          name: "Five colors",
+          shortName: "Colors",
+          beams: [
+            { note: "C3", color: "red" },
+            { note: "D3", color: "blue" },
+            { note: "Eb3", color: "yellow" },
+            { note: "G3", color: "orange" },
+            { note: "C4" },
+          ],
+        },
+      ]}
+    />
+  </body>
+</html>
+
+<style>
+  body {
+    max-width: 760px;
+    margin: auto;
+    padding: 1rem;
+    font-family: system-ui, sans-serif;
+  }
+  nav {
+    display: flex;
+    gap: 1rem;
+  }
+  [aria-current] {
+    font-weight: bold;
+  }
+</style>

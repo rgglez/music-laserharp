@@ -1,0 +1,14 @@
+{
+  "name": "music-laserharp-example-astro",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@rgglez/music-laserharp": "file:../..",
+    "astro": "^7.4.0"
+  }
+}
